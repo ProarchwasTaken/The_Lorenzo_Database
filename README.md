@@ -5,15 +5,7 @@ tld_database is an Old School Public Database that's meant be used by anyone, in
 
 # How to use
 
-I recommend loading this in Windows Command Prompt for the best experience. ~~Totally not because it won't work anywhere else but if you do find of way than more power to you.~~
-
-All you need is python and so far this works for Python **3.9**
-
-Once you downloaded the file, unzip it and put the tld_database folder into a safe place. Now open cmd prompt and enter this command:
-```cd <Replace this with path to tld_database>\tld_database & python main.py```
-
-If you want quick access, then I suggest saving a shortcut of cmd prompt and adding this to the end of **target:**
-``` /k cd <Replace this with path to tld_database>\tld_database & python main.py```
+All you had to do is download **Release 1.2**, extract the folder and run **database.exe**. It used to be so much more complicated than that.
 
 # Final thoughts
 
