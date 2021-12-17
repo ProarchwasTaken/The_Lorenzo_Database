@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Tyler Dillard",
+        "author": "Proarch",
+        "type": "Human",
+        "desc": "He's a pretty cool guy!",
+        "date": "17/12/2021"
+    },
+    {
+        "name": "Shrimp and Fried Rice",
+        "author": "Proarch",
+        "type": "Food",
+        "desc": "Tyler's Favorite Food!",
+        "date": "17/12/2021"
+    },
+    {
+        "name": "Jerky Mc Jerkface",
+        "author": "Proarch",
+        "type": "Human (If you can call him one)",
+        "desc": "He's a big jerk to everybody.",
+        "date": "17/12/2021"
+    },
+    {
+        "name": "Nintendo DS",
+        "author": "Proarch",
+        "type": "Game Console",
+        "desc": "The NDS is a handheld device with dual screens hence the name: \"DS\".",
+        "date": "17/12/2021"
+    }
+]
